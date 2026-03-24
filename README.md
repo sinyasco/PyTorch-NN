@@ -1,1 +1,1 @@
-# PyTorch-NN
+A hands-on exploration of the core mechanics of PyTorch. This repository focuses on the relationship between calculus and code, specifically implementing manual training loops, understanding gradient accumulation via .backward(), and mastering the weight update lifecycle with optimizer.step() and zero_grad().
